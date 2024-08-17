@@ -1,4 +1,4 @@
-# Vimix Hyprcursors
+# Vimix Hyprcursor
 
 An elegant x-cursor theme ported to hyprcursor.
 Click [here](https://github.com/vinceliuice/Vimix-cursors) for the original by [vinceliuice](https://github.com/vinceliuice) 
