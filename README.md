@@ -1,7 +1,6 @@
 # Vimix Hyprcursor
 
-Vimix Cursor ported to hyprcursor \
-[original](https://github.com/vinceliuice/Vimix-cursors) by [vinceliuice](https://github.com/vinceliuice) 
+Vimix Cursor ported to hyprcursor, [original](https://github.com/vinceliuice/Vimix-cursors) by [vinceliuice](https://github.com/vinceliuice) 
 
 ## Disclaimer
 
