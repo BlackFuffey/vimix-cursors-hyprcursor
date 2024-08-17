@@ -13,7 +13,7 @@ Pre-built themes can be found in `themes`
 
 ## Building
 
-Clone this repo and refer to hyprcursor-util [documentation](https://github.com/hyprwm/hyprcursor/blob/main/docs/MAKING_THEMES.md).
+Clone this repo and refer to hyprcursor [documentation](https://github.com/hyprwm/hyprcursor/tree/main?tab=readme-ov-file#documentation).
 
 ## Previews
 
