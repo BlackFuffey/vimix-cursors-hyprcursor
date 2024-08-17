@@ -9,5 +9,9 @@ I am not the creator of the original designs or any part of the Vimix Cursor the
 
 ## Installation
 
-Clone this repo and refer to (hyprcursor wiki)[https://wiki.hyprland.org/Hypr-Ecosystem/hyprcursor/#hyprcursor-themes] for installation. \
+Clone this repo and refer to [hyprcursor wiki](https://wiki.hyprland.org/Hypr-Ecosystem/hyprcursor/#hyprcursor-themes) for installation. \
 Pre-built themes can be found in `themes`
+
+## Building
+
+Clone this repo and refer to [hyprcursor-util](https://github.com/hyprwm/hyprcursor/blob/main/docs/MAKING_THEMES.md) documentation.
