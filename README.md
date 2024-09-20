@@ -18,4 +18,5 @@ Clone this repo and refer to hyprcursor [documentation](https://github.com/hyprw
 ## Previews
 
 ![Normal version preview](https://github.com/user-attachments/assets/da167daf-36b5-4aa7-84f0-8f7e964b6cec)
-![White version preview](https://github.com/user-attachments/assets/4664fac6-59ad-48b3-a2c9-dfce2e397415)
+![White version preview](https://github.com/user-attachments/assets/2e8582b9-f50c-4e93-abfa-224003bd8bb9)
+
